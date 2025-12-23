@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+slowapi
+python-jose
+httpx
+beautifulsoup4
